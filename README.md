@@ -4,7 +4,7 @@ Hi 👋 My name is Hossein
 Web developer and designer
 --------------------------
 
-I've been learning to code for 1 year, after that I started with HTML, but have really found a passion for JS development :)
+I've been learning to code for 3 years, after that I started with HTML, but have really found a passion for JS development :)
 
 * 🌍  I'm based in Iran
 * ✉️  You can contact me at [ho3eincyborg@gmail.com](mailto:ho3eincyborg@gmail.com)
